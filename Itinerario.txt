@@ -8,3 +8,4 @@ sectimo paso: me voy para la casa
 octavo paso: me pongo a cenar
 noveno paso: me baño para irme a dormir
 decimo paso: me voy a dormir 
+undecimo paso: me voy a la cama
