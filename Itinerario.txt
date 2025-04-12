@@ -4,3 +4,4 @@ tercer paso: me cambio
 cuarto paso: voy a comer
 quinto paso: me voy a jugar
 sexto paso: me pongo a jugar futbol
+sectimo paso: me voy para la casa
