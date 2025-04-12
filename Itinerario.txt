@@ -6,3 +6,4 @@ quinto paso: me voy a jugar
 sexto paso: me pongo a jugar futbol
 sectimo paso: me voy para la casa
 octavo paso: me pongo a cenar
+noveno paso: me baño para irme a dormir
