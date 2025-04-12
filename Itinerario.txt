@@ -1,4 +1,4 @@
-primer paso: me levanto de la cama 
+primer paso: sigo durmimiendo 
 segundo paso: me baño
 tercer paso: me cambio
 cuarto paso: voy a comer
@@ -7,4 +7,4 @@ sexto paso: me pongo a jugar futbol
 sectimo paso: me voy para la casa
 octavo paso: me pongo a cenar
 noveno paso: me baño para irme a dormir
-decimo paso: me voy a dormir git 
+decimo paso: me voy a dormir 
