@@ -1,4 +1,5 @@
 primer paso: me levanto de la cama 
 segundo paso: me baño
 tercer paso: me cambio
-cuarto paso: 
+cuarto paso: voy a comer
+quinto paso: me voy a jugar
